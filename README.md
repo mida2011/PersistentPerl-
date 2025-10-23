@@ -1,6 +1,6 @@
 note:
 
-1 Arm Deiban 7 11 12 Compile passed;
+1 Arm Deiban 7 ~ 12 Compile passed;
 
 2 You don't need mod_persistentperl to run it,nginx APACHE lighttpd etc all webserver；
 
@@ -11,7 +11,7 @@ note:
 
 注意：
 
-1、Arm Deiban 7 Debian 11 12编译通过；
+1、Arm Deiban 7 ~ 12编译通过；
 
 2、不需要增加mod_persistentperl模块，即可在apache、nginx、lighttpd等所有web服务器上运行；
 
