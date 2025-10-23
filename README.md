@@ -1,14 +1,25 @@
 note:
-1 Arm Deiban 7 Debian 11 12 Compile passed;
+
+1 Arm Deiban 7 11 12 Compile passed;
+
 2 You don't need mod_persistentperl to run it,nginx APACHE lighttpd etc all webserver；
+
 3 Equivalent in performance to FastCGI；
+
 4 Outside of the header, there is no need to modify the Perl script；
 
+
 注意：
+
 1、Arm Deiban 7 Debian 11 12编译通过；
+
 2、不需要增加mod_persistentperl模块，即可在apache、nginx、lighttpd等所有web服务器上运行；
+
 3、性能和fastcgi相当；
+
 4、除了#!/usr/bin/perperl头部外，不需要修改严谨的perl脚本即可运行；
+
+
 
 NAME
     PersistentPerl - Speed up perl scripts by running them persistently.
