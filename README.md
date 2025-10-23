@@ -1,4 +1,4 @@
-note:
+NOTE:
 
 1 Arm or X86_64 Deiban 7 ~ 12 Compile passed;
 
