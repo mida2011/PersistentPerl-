@@ -22,8 +22,8 @@ NOTE:
 
 
 
-
-
+#mod_persistentperl2/mod_persistentperl2.c增加一行：
+#define 	APR_BRIGADE_FOREACH(e, b)   APR_RING_FOREACH((e), &(b)->list, apr_bucket, link)
 
 ==================================================================================
 
