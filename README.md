@@ -2,11 +2,11 @@ NOTE:
 
 1 Arm or X86_64 Deiban 7 ~ 12 Compile passed;
 
-2 You don't need mod_persistentperl to run it,nginx APACHE lighttpd etc all webserver；
+2 You don't need mod_persistentperl to run it,nginx APACHE lighttpd etc all webserver;
 
-3 Equivalent in performance to FastCGI；
+3 Equivalent in performance to FastCGI;
 
-4 Outside of the header, there is no need to modify the Perl script；
+4 Outside of the header, there is no need to modify the Perl script;
 
 
 注意：
